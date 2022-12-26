@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.state{
+  border: 5px solid;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: rgb(37, 35, 35);
+}
+.state--title{
+  color:white;
+}
+
+.state--value{
+  width: 50px;
+  padding-left: 25px;
+  background-color: white;
+  color:black
+  
+}
